@@ -1,0 +1,5 @@
+{
+  "name": "Study Library AI Attendance Tracker",
+  "description": "An AI-powered application for tracking and analyzing student attendance in a study library. Users can log daily attendance, view monthly summaries, analyze individual records, and use an AI assistant to get insights from the data. All results can be exported to PDF.",
+  "requestFramePermissions": []
+}
